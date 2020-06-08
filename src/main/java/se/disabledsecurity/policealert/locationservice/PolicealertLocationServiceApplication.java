@@ -1,4 +1,4 @@
-package se.disabledsecurity.policealertlocationservice;
+package se.disabledsecurity.policealert.locationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
